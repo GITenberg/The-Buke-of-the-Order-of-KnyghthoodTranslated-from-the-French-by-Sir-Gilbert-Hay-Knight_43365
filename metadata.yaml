@@ -1,0 +1,38 @@
+_repo: The-Buke-of-the-Order-of-KnyghthoodTranslated-from-the-French-by-Sir-Gilbert-Hay-Knight_43365
+_version: 0.1.0
+contributor:
+  translator:
+    agent_name: Hay, Gilbert,‏ ‎Sir,‏ active 1456
+    gutenberg_agent_id: '42157'
+    url: http://www.gutenberg.org/2009/agents/42157
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Llull, Ramon
+    deathdate: 1316
+    gutenberg_agent_id: '42156'
+    url: http://www.gutenberg.org/2009/agents/42156
+  editor:
+    agent_name: Botfield, Beriah
+    birthdate: 1807
+    deathdate: 1863
+    gutenberg_agent_id: '46495'
+    url: http://www.gutenberg.org/2009/agents/46495
+description: ''
+gutenberg_issued: '2013-07-30'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '43365'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Chivalry'
+- !lcc 'CR'
+title: 'The Buke of the Order of Knyghthood
+
+  Translated from the French by Sir Gilbert Hay, Knight'
+url: http://www.gutenberg.org/ebooks/43365
