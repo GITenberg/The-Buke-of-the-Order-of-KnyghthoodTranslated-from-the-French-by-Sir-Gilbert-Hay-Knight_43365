@@ -21,6 +21,8 @@ creator:
     gutenberg_agent_id: '46495'
     url: http://www.gutenberg.org/2009/agents/46495
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/43365#The-Buke-of-the-Order-of-KnyghthoodTranslated-from-the-French-by-Sir-Gilbert-Hay-Knight
 gutenberg_issued: '2013-07-30'
 gutenberg_type: Text
 identifiers:
